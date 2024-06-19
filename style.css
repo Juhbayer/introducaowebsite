@@ -1,5 +1,14 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+
+
 body {
-   font-family: Arial, Helvetica, sans-serif;
+   font-family:'Merriweather';
+
 }
 
 .h1 {
@@ -72,11 +81,28 @@ h2{
    
 }
 .footer {
-    background-color: rgba(221, 221, 248, 0.541);
+    background-color: rgba(221, 221, 248, 0.911);
     color: white;
     text-align: center;
     padding: 10px;
     position: fixed;
     width: 100%;
     bottom: 0;
+    display: ab;
 }
+.img {
+    border-radius:20% ;
+    border: 5px solid rgb(162, 214, 235);
+}
+.j {
+    line-height: 1.5;
+}
+.u {
+    line-height: 1.5;
+}
+.i{  width:  2%; 
+    Height : auto;    
+    text-decoration: none;
+ }
+
+        
