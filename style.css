@@ -3,15 +3,15 @@ body {
 }
 
 .h1 {
-color: hsl(350, 91%, 71%);
+color: hsl(350, 66%, 72%);
 
 }
 
 .juh {
-    color: blueviolet;
+    color: rgb(185, 134, 233);
 }
 .sobre{
-    color: blueviolet;
+    color: rgb(200, 159, 238);
 }
 .Pro{
     color: rgb(248, 97, 122);
@@ -70,4 +70,13 @@ h2{
 .juh {
    text-align: center;
    
+}
+.footer {
+    background-color: rgba(221, 221, 248, 0.541);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
