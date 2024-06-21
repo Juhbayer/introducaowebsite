@@ -43,16 +43,31 @@ nav ul li a:hover {
     background-color: hsl(202, 83%, 67%);
 }
 
-
- 
- .um {
-    display: flex;
-    justify-content: space-between;
-    list-style-type:none;
-    pad: 16px;
+img {
+    width:  20%; 
+    Height : auto;    
+ }
+ .sobre {
+    color: rgb(228, 163, 228);
  }
 
- 
+ tt {
+    align-items: center;
+    line-height: 1.2;
+}
+
+.ini {
+    display: flex;
+    align-items: center;
+}
+
+.ini img {
+    margin-right: 12px;
+}
+
+.tt h1, .tt h5 {
+    margin: 0;
+}
 
 main {
     padding: 20px;
@@ -61,15 +76,16 @@ main {
 section {
     margin-bottom: 20px;
 }
-h2{
-    color: rgb(250, 158, 173);
-}
-.Projeto {
-    color: #ee8a9a;
-}
+.um {
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none;
+    pad: 16px;
+ }
+
 .juh {
    text-align: center;
-   
+   color: #d891d8;
 }
 .footer {
     background-color: rgba(221, 221, 248, 0.911);
@@ -81,10 +97,21 @@ h2{
     bottom: 0;
     display: ab;
 }
+.img {
+    border-radius:20% ;
+    border: 5px solid rgb(162, 214, 235);
+}
 
- 
+
+
+
 a{
     text-decoration: none;
 }
+.im {
+    width:  10%; 
+    Height : auto;
+    border-radius:20% ;
+    border: 5px solid #afb5f0;   
+}
 
-        
